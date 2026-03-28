@@ -4,10 +4,9 @@ const sidebars = {
     "intro",
     {
       type: "category",
-      label: "基础框架",
+      label: "核心概念",
       items: [
         "项目愿景与理念",
-        "产品蓝图与功能板块",
         "组织与权限模型",
         "研发协作体系",
         "OKR-管理机制",
@@ -15,6 +14,11 @@ const sidebars = {
         "角色职责权限与沟通框架",
         "术语表"
       ]
+    },
+    {
+      type: "category",
+      label: "产品指南",
+      items: ["产品蓝图与功能板块"]
     },
     {
       type: "category",
