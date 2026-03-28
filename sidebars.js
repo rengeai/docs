@@ -18,12 +18,8 @@ const sidebars = {
     {
       type: "category",
       label: "产品指南",
-      items: ["产品蓝图与功能板块"]
-    },
-    {
-      type: "category",
-      label: "运行示例",
       items: [
+        "产品蓝图与功能板块",
         "运行示例-研发需求交付",
         "运行示例-产品方案设计",
         "运行示例-线上故障事件响应"
