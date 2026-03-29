@@ -48,6 +48,16 @@ const sidebars = {
         "plan/PLAN-TBD-需求解决方案-三角色串行思考",
         "plan/PLAN-TBD-单公司单项目闭环"
       ]
+    },
+    {
+      type: "category",
+      label: "构建博客",
+      items: [
+        "blog/README",
+        "blog/2026-03-30-为什么先做单公司单项目",
+        "blog/2026-03-30-从需求到提案库的结构演进",
+        "blog/2026-03-30-三角色串行思考法的价值"
+      ]
     }
   ]
 };
