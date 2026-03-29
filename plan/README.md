@@ -14,6 +14,7 @@
 | Plan-ID | 标题 | 作者 | 类型 | 状态 | 关联 Issue | 目标仓库 |
 | --- | --- | --- | --- | --- | --- | --- |
 | PLAN-0001 | 提案流程与模板 | louie | Process | Final | docs-internal | docs |
+| PLAN-TBD | 需求解决方案-三角色串行思考 | louie | Product | Draft | TBD | docs |
 | PLAN-TBD | 单公司单项目闭环 | louie | Product | Draft | TBD | consumer/noteflow-app |
 
 ## 目录结构
