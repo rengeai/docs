@@ -32,6 +32,7 @@ const sidebars = {
         "roadmap/MVP范围与模块",
         "roadmap/第一版本落地顺序",
         "roadmap/需求计划总览",
+        "roadmap/需求-单公司单项目闭环",
         "roadmap/需求-公司级更新播报者",
         "roadmap/需求-代码审查代理",
         "roadmap/需求-TypeScript研发者"
