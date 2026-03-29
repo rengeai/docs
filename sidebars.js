@@ -45,8 +45,7 @@ const sidebars = {
         "plan/README",
         "plan/CONTRIBUTING",
         "plan/PLAN-0001-提案流程与模板",
-        "plan/PLAN-TBD-需求解决方案-三角色串行思考",
-        "plan/PLAN-TBD-单公司单项目闭环"
+        "plan/PLAN-0002-产品设计阶段"
       ]
     },
     {
