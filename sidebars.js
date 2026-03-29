@@ -37,6 +37,16 @@ const sidebars = {
         "roadmap/需求-代码审查代理",
         "roadmap/需求-TypeScript研发者"
       ]
+    },
+    {
+      type: "category",
+      label: "计划提案库",
+      items: [
+        "plan/README",
+        "plan/CONTRIBUTING",
+        "plan/PLAN-0001-提案流程与模板",
+        "plan/单公司单项目闭环"
+      ]
     }
   ]
 };
