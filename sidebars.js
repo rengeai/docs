@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  docsSidebar: [
+  gettingStartedSidebar: [
     "intro",
     {
       type: "category",
@@ -15,32 +15,28 @@ const sidebars = {
         "术语表"
       ]
     },
+  ],
+  productGuideSidebar: [
+    "产品指南-总览",
+    "MVP-范围与模块",
+    "第一版本-落地顺序",
     {
       type: "category",
-      label: "产品指南",
+      label: "需求计划",
       items: [
-        "产品指南-总览",
-        "MVP-范围与模块",
-        "第一版本-落地顺序",
-        {
-          type: "category",
-          label: "需求计划",
-          items: [
-            "需求计划-总览",
-            "需求-公司级更新播报者",
-            "需求-代码审查代理",
-            "需求-TypeScript-研发者"
-          ]
-        },
-        {
-          type: "category",
-          label: "产品案例",
-          items: [
-            "运行示例-研发需求交付",
-            "运行示例-产品方案设计",
-            "运行示例-线上故障事件响应"
-          ]
-        }
+        "需求计划-总览",
+        "需求-公司级更新播报者",
+        "需求-代码审查代理",
+        "需求-TypeScript-研发者"
+      ]
+    },
+    {
+      type: "category",
+      label: "产品案例",
+      items: [
+        "运行示例-研发需求交付",
+        "运行示例-产品方案设计",
+        "运行示例-线上故障事件响应"
       ]
     }
   ]
