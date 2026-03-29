@@ -1,12 +1,12 @@
 ---
-Plan-ID: PLAN-0002
+Plan-ID: PLAN-TBD
 Title: 单公司单项目闭环
 Author: louie
 Status: Draft
 Type: Product
 Created: 2026-03-29
 Issue: TBD
-Docs-Path: plan/单公司单项目闭环.md
+Docs-Path: plan/PLAN-TBD-单公司单项目闭环.md
 Target-Repo: consumer/noteflow-app
 ---
 

@@ -45,7 +45,7 @@ const sidebars = {
         "plan/README",
         "plan/CONTRIBUTING",
         "plan/PLAN-0001-提案流程与模板",
-        "plan/单公司单项目闭环"
+        "plan/PLAN-TBD-单公司单项目闭环"
       ]
     }
   ]

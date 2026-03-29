@@ -10,8 +10,10 @@
 ## 编号规则
 
 - 作者不得自行分配 `Plan-ID`。
-- `Plan-ID` 由维护者在合并前分配，格式为 `PLAN-XXXX`。
-- 文件名可为中文标题，但必须在元数据中记录 `Plan-ID`。
+- `Plan-ID` 取自对应 Issue 的 ID，格式为 `PLAN-<IssueID>`。
+- 提案文件名必须使用：`PLAN-<IssueID>-xxxxx.md`。
+- `xxxxx` 为中文提案标题（短标题）。
+- 文件名与元数据头中的 `Plan-ID` 必须一致。
 
 ## 审阅门禁
 
