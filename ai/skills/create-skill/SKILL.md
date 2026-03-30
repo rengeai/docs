@@ -148,7 +148,7 @@ chmod +x scripts/foo.py
 ## 5) 内容长度（token）
 
 - `SKILL.md` 正文推荐 < 5000 tokens
-- 可用 [token_count.py](../../scripts/token_count.py) 统计 token 数（脚本与参数不依赖 workdir，只要路径写对即可）：
+- 可用 `token_count.py` 统计 token 数（脚本与参数不依赖 workdir，只要路径写对即可）：
 
 ```bash
 cd skills/<skill-name>
